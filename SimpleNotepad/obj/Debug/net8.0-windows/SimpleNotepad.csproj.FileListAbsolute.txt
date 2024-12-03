@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.exe
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.deps.json
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.runtimeconfig.json
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.dll
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.pdb
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad_MarkupCompile.cache
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad_MarkupCompile.lref
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.g.resources
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.AssemblyInfo.cs
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.dll
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\refint\SimpleNotepad.dll
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.pdb
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.genruntimeconfig.cache
+C:\Users\user\Desktop\MyBigApllications\SimpleNotepad\SimpleNotepad\obj\Debug\net8.0-windows\ref\SimpleNotepad.dll
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.exe
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.deps.json
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.runtimeconfig.json
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.dll
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\bin\Debug\net8.0-windows\SimpleNotepad.pdb
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad_MarkupCompile.cache
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad_MarkupCompile.lref
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.g.resources
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.AssemblyInfo.cs
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.dll
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\refint\SimpleNotepad.dll
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.pdb
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\SimpleNotepad.genruntimeconfig.cache
+C:\Users\user\Desktop\ToGit\SimpleNotepad (Unfinished)\SimpleNotepad\obj\Debug\net8.0-windows\ref\SimpleNotepad.dll
